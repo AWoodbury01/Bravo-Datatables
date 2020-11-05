@@ -1,4 +1,4 @@
-# Bravo Datatables
+# Datatables Landing Page
 
 ## Objective
 Datatables containing 150 records using jQuery Datatables
